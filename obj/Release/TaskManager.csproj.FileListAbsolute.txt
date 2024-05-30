@@ -1,0 +1,10 @@
+D:\Sheridan\Semester 4\.NET\TaskManager\TaskManager\TaskManager\bin\Release\TaskManager.exe.config
+D:\Sheridan\Semester 4\.NET\TaskManager\TaskManager\TaskManager\bin\Release\TaskManager.exe
+D:\Sheridan\Semester 4\.NET\TaskManager\TaskManager\TaskManager\bin\Release\TaskManager.pdb
+D:\Sheridan\Semester 4\.NET\TaskManager\TaskManager\TaskManager\obj\Release\TaskManager.csproj.AssemblyReference.cache
+D:\Sheridan\Semester 4\.NET\TaskManager\TaskManager\TaskManager\obj\Release\TaskManager.Form1.resources
+D:\Sheridan\Semester 4\.NET\TaskManager\TaskManager\TaskManager\obj\Release\TaskManager.Properties.Resources.resources
+D:\Sheridan\Semester 4\.NET\TaskManager\TaskManager\TaskManager\obj\Release\TaskManager.csproj.GenerateResource.cache
+D:\Sheridan\Semester 4\.NET\TaskManager\TaskManager\TaskManager\obj\Release\TaskManager.csproj.CoreCompileInputs.cache
+D:\Sheridan\Semester 4\.NET\TaskManager\TaskManager\TaskManager\obj\Release\TaskManager.exe
+D:\Sheridan\Semester 4\.NET\TaskManager\TaskManager\TaskManager\obj\Release\TaskManager.pdb
